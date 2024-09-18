@@ -1,8 +1,8 @@
 {
   "hamster": {
     "cipher": {
-      "date": "2024-09-17",
-      "value": "LISTING"
+      "date": "2024-09-18",
+      "value": "BINANCE"
     }
   },
   "blum": {
@@ -11,5 +11,8 @@
       "38f6dd88-57bd-4b42-8712-286a06dac0a0": { "keyword": "VALUE" },
       "d95d3299-e035-4bf6-a7ca-0f71578e9197": { "keyword": "BEST PROJECT EVER" }
     }
+  },
+  "sonic": {
+    "run": false
   }
 }
