@@ -14,6 +14,6 @@
     }
   },
   "sonic": {
-    "run": false
+    "run": true
   }
 }
