@@ -13,7 +13,7 @@
   },
   "blum": {
     "run": {
-      "task": true
+      "task": false
     },
     "answers": {
       "6af85c01-f68d-4311-b78a-9cf33ba5b151": { "keyword": "GO GET" },
